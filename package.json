@@ -2,16 +2,16 @@
   "name": "fontawesome-iconpicker",
   "version": "3.2.0",
   "description": "Font Awesome Icon Picker plugin for Twitter Bootstrap",
-  "homepage": "https://farbelous.github.io/fontawesome-iconpicker/",
+  "homepage": "https://github.com/assuradeuren-gilde/fontawesome-iconpicker/",
   "repository": {
     "type": "git",
-    "url": "git@github.com:farbelous/fontawesome-iconpicker.git"
+    "url": "git@github.com:assuradeuren-gilde/fontawesome-iconpicker.git"
   },
   "author": "Javi Aguilar",
   "license": "MIT",
   "main": "dist/js/fontawesome-iconpicker.js",
   "bugs": {
-    "url": "https://github.com/farbelous/fontawesome-iconpicker/issues"
+    "url": "https://github.com/assuradeuren-gilde/fontawesome-iconpicker/issues"
   },
   "keywords": [
     "bootstrap",

@@ -176,7 +176,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-less');
     grunt.loadNpmTasks('grunt-jsbeautifier');
     grunt.loadNpmTasks('grunt-yaml');
-    grunt.loadNpmTasks('grunt-http-download');
+    grunt.loadNpmTasks('@assuradeurengilde/grunt-https-file');
     grunt.loadNpmTasks('grunt-string-replace');
 
     // Register tasks

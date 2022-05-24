@@ -28,7 +28,7 @@
     "grunt-contrib-less": "^2.0.0",
     "grunt-contrib-uglify": "^4.0.0",
     "grunt-contrib-watch": "^1.1.0",
-    "grunt-http-download": "^0.1",
+    "@assuradeurengilde/grunt-https-file": "^0.1.1",
     "grunt-jsbeautifier": "^0.2",
     "grunt-string-replace": "^1.3",
     "grunt-yaml": "^0.4"

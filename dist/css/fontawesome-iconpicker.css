@@ -68,8 +68,8 @@
 }
 .iconpicker-popover.popover .popover-title {
   padding: 12px;
-  font-size: 13px;
-  line-height: 15px;
+  font-size: 26px / 2;
+  line-height: 26px / 2 + 2px;
   border-bottom: 1px solid #ebebeb;
   background-color: #f7f7f7;
 }

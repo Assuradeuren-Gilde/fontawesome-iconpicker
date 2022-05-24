@@ -1,6 +1,6 @@
 {
   "name": "@assuradeurengilde/fontawesome-iconpicker",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "Font Awesome Icon Picker plugin for Twitter Bootstrap",
   "homepage": "https://github.com/assuradeuren-gilde/fontawesome-iconpicker/",
   "repository": {
@@ -24,14 +24,14 @@
     "grunt": "^1.5.3",
     "grunt-contrib-clean": "^2.0.1",
     "grunt-contrib-concat": "^2.1.0",
-    "grunt-contrib-jshint": "^2.0.0",
-    "grunt-contrib-less": "^2.0.0",
-    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-jshint": "^3.2.0",
+    "grunt-contrib-less": "^3.0.0",
+    "grunt-contrib-uglify": "^5.2.1",
     "grunt-contrib-watch": "^1.1.0",
     "@assuradeurengilde/grunt-https-file": "^0.1.1",
-    "grunt-jsbeautifier": "^0.2",
-    "grunt-string-replace": "^1.3",
-    "grunt-yaml": "^0.4"
+    "grunt-jsbeautifier": "^0.2.13",
+    "grunt-string-replace": "^1.3.1",
+    "grunt-yaml": "^0.4.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

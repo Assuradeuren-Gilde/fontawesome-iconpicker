@@ -2,7 +2,7 @@ fontawesome-iconpicker
 ========================
 
 <!--[![Build Status](https://img.shields.io/travis/itsjavi/fontawesome-iconpicker/master.svg?style=flat-square)](https://travis-ci.org/itsjavi/fontawesome-iconpicker)-->
-<!--[![npm@next](https://img.shields.io/npm/v/fontawesome-iconpicker/next.svg?style=flat-square)](https://www.npmjs.com/package/fontawesome-iconpicker?activeTab=versions)-->
+<!--[![npm@next](https://img.shields.io/npm/v/fontawesome-iconpicker/next.svg?style=flat-square)](https://www.npmjs.com/package/@assuradeurengilde/fontawesome-iconpicker?activeTab=versions)-->
 [![npm](https://img.shields.io/npm/v/fontawesome-iconpicker.svg?style=flat-square)](https://www.npmjs.com/package/@assuradeurengilde/fontawesome-iconpicker)
 
 
